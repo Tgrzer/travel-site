@@ -3,10 +3,12 @@
 	p {
 		line-height: 1.65;
 		
-		margin: 1.8rem 0;
+		margin: 0 0 1.8rem 0;
 
 		@mixin atSmall {
 			font-size: 1.125rem;
+
+		font-weight: 300;
 		}
 
 	}
@@ -14,5 +16,6 @@
 	p a {
 		font-weight: 700;
 	}
+
 
 }
