@@ -1,6 +1,6 @@
 .feature-item {
 	
-	/*padding-left: 94px;*/
+	
 	position: relative;
 	padding-bottom: 2.5rem;
 
@@ -11,8 +11,7 @@
 
 
 	&__icon {
-		/*position: absolute;
-		left: 0;*/
+		
 		margin: 0 auto;
 		display: block;
 
